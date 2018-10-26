@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540588151 source:c:\users\qbute\documents\github\calculator\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
